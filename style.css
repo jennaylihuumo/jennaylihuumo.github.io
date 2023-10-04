@@ -1,0 +1,46 @@
+body {
+
+}
+h1 {
+    color: rgb(251, 121, 74);
+}
+
+#guid1 {
+    color: rgb(92, 69, 48);
+}
+
+.esimerkki {
+    padding-left: 40px;
+    color: red;
+}
+.esimerkki-box {
+    background-color: rgb(173, 244, 173);
+    border: solid 1px rgb(75, 161, 75);
+    padding: 4px;
+}
+h3 {
+    color: blue;
+}
+tr:nth-child(odd){
+background-color: gainsboro;
+}
+table tr td {
+    border-spacing: 0px;
+    margin: 0px;
+    border: solid 1px #888
+}
+table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.merkattu {
+    color: #f00;
+}
+h2 {
+    color: hotpink;
+}
+
+.jsharkkatyyli {
+    display: none;
+}
